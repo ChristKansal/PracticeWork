@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="15" started-at="2018-03-09T06:09:31Z" finished-at="2018-03-09T06:09:31Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="15" started-at="2018-03-09T06:09:31Z" finished-at="2018-03-09T06:09:31Z">
+      <class name="roughwork.roughclass">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:roughwork.roughclass@45ca843]" name="setUp" is-config="true" duration-ms="10723" started-at="2018-03-09T11:39:21Z" finished-at="2018-03-09T11:39:31Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="firstTest()[pri:0, instance:roughwork.roughclass@45ca843]" name="firstTest" duration-ms="4" started-at="2018-03-09T11:39:31Z" finished-at="2018-03-09T11:39:31Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- firstTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:roughwork.roughclass@45ca843]" name="tearDown" is-config="true" duration-ms="968" started-at="2018-03-09T11:39:31Z" finished-at="2018-03-09T11:39:32Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- roughwork.roughclass -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
